@@ -22,6 +22,6 @@ def using_delete(array, element)
 end
 
 def using_delete_at(array, element)
-  array.delete("")
+  array.delete("Robocop")
   
 end
